@@ -1,6 +1,8 @@
 # PlatziHyperblog
 Blog de prueba para el curso de Git y Github de Platzi
 
+**Desarrollado por Cristian David Santoyo Parra para el curso de Git y Github**
+
 # Hyperblog 💚
 Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 
